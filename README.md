@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-[View FineWise AI App](https://sajal-finewise-ai-projectt.streamlit.app/)
+https://sajal-finewise-ai-projectt.streamlit.app/
 
 # FinWise AI — AI-Powered Personal Financial Analysis & Smart Budget Assistant
 
