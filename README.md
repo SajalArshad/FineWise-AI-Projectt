@@ -1,5 +1,6 @@
-#Dev link
-sajal-finewise-ai-projectt
+## 🔗 Project Repository
+
+[View Project on GitHub](https://github.com/SajalArshad/sajal-finewise-ai-project)
 # FinWise AI — AI-Powered Personal Financial Analysis & Smart Budget Assistant
 
 An educational LangChain + Streamlit prototype. Users enter their monthly
